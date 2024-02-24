@@ -109,6 +109,7 @@ mi_power.ko
 dump_display.ko
 low_free_memory_kill.ko
 msm_sysstats.ko
+cpq.ko
 msm_show_resume_irq.ko
 mhi.ko
 mhi_cntrl_qcom.ko
@@ -264,8 +265,6 @@ gh_mem_notifier.ko
 qcom-spmi-adc5-gen3.ko
 qcom-vadc-common.ko
 industrialio-buffer-cb.ko
-industrialio-triggered-buffer.ko
-kfifo_buf.ko
 nvmem_qfprom.ko
 icc-test.ko
 migt.ko

@@ -3,6 +3,7 @@ alias of:N*T*Cqcom,audio_prm audio_prm_dlkm
 alias of:N*T*Cqcom,audio_prmC* audio_prm_dlkm
 alias of:N*T*Cqcom,msm-ext-disp-audio-codec-rx hdmi_dlkm
 alias of:N*T*Cqcom,msm-ext-disp-audio-codec-rxC* hdmi_dlkm
+alias cpq-iosched cpq
 alias of:N*T*Cqcom,llcc-perfmon llcc_perfmon
 alias of:N*T*Cqcom,llcc-perfmonC* llcc_perfmon
 alias of:N*T*Cqcom,ufs-phy-qmp-v4-lahaina phy_qcom_ufs_qmp_v4_lahaina
@@ -52,6 +53,9 @@ alias of:N*T*Cqcom,geni-i3cC* i3c_master_msm_geni
 alias MHI_SATELLITE mhi_dev_satellite
 alias of:N*T*Cqcom,msm-mmrm msm_mmrm
 alias of:N*T*Cqcom,msm-mmrmC* msm_mmrm
+alias i2c:cs35l43 cs35l43_dlkm
+alias of:N*T*Ccirrus,cs35l43 cs35l43_dlkm
+alias of:N*T*Ccirrus,cs35l43C* cs35l43_dlkm
 alias of:N*T*Cqcom,audio-pkt audio_pkt_dlkm
 alias of:N*T*Cqcom,audio-pktC* audio_pkt_dlkm
 alias of:N*T*Cqcom,audio-pkt-core-platform audio_pkt_dlkm
