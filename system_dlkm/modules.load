@@ -1,2 +1,2 @@
-kernel/mm/zsmalloc.ko
-kernel/drivers/block/zram/zram.ko
+zram.ko
+zsmalloc.ko
